@@ -3,5 +3,5 @@
 - 🌱 I’m always learning.
 - 💞️ I’m looking to collaborate on webapps
 - 📫 grafix.hb@gmail.com
-- 😄 Not an npc or robt
+- 😄 Not an npc or robot
 - ⚡ "sciene is the finest of art"
